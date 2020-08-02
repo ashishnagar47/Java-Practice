@@ -163,7 +163,7 @@ public class linkedList {
     }
 
     private Node Reverse(Node node) {
-        Node h=head;
+       // Node h=head;
         Node temp = head;
         Node prev = null;
         Node ahead = null;
